@@ -1,0 +1,27 @@
+{
+    "name": "ADE7758", 
+    "repository": {
+        "url": "https://github.com/fngstudios/ADE7758.git", 
+        "type": "git"
+    }, 
+    "platforms": [
+        "*"
+    ], 
+    "frameworks": [
+        "arduino"
+    ], 
+    "version": "0.1", 
+    "authors": [
+        {
+            "maintainer": false, 
+            "name": "fngSturios", 
+            "url": "https://github.com/fngstudios", 
+            "email": null
+        }
+    ], 
+    "keywords": [
+        "Energy", 
+        "mewSystem"
+    ],  
+    "description": "ADE7758 interface library to be improoved since this uses no interrupts."
+}
