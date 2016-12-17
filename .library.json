@@ -23,5 +23,6 @@
         "Energy", 
         "mewSystem"
     ],  
-    "description": "ADE7758 interface library to be improoved since this uses no interrupts."
+    "description": "ADE7758 interface library to be improoved since this uses no interrupts.",
+	"examples": "examples/*/*.ino"
 }
